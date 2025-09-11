@@ -3,7 +3,7 @@ name: IRIS ML CI-CD
 on:
   push:
     branches: [main]
-  pull-request:
+  pull-requests:
     branches: [main]
 
 jobs:
